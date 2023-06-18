@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testcases.HomePageTest"/>
+      <class name="testcases.LoginPageTest"/>
+      <class name="testcases.ProjectsPageTest"/>
+      <class name="testcases.PunchInTest"/>
+      <class name="testcases.PunchOutTest"/>
+      <class name="testcases.TimePageTest"/>
+      <class name="testcases.TimeSheetTest"/>
+      <class name="testcases.WeekTimeSheetTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
